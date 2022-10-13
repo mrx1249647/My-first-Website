@@ -56,6 +56,10 @@ li:hover::after{
     text-decoration: none;
     color: #fff;
     font-size: 22px;
+    transition: 1s;
+}
+.header ul li a:hover{
+    color: #09c;
 }
 .container{
 width: 80%;
